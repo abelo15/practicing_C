@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("It's fun to write my own program in C.\n");
-	return (0);
+	printf("Howedy, neighbor!\n This is my first c Program.\n");
+	return(0);
 }
